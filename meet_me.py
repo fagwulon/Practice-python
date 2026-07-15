@@ -1,0 +1,13 @@
+name = input("What is your name? ")
+age = input("How old are you? ")
+university = input("What university do you attend? ")
+course_name = input("What course do you study? ")
+favourite_colour = input("What's your favourite colour? ")
+dream_job = input("Which company do you plan to work after you're done? ")
+
+print("You are " + name)
+print("You are " + age, "years old")
+print("You attend " + university)
+print("you study " + course_name)
+print("Your favourite colour is " + favourite_colour)
+print("Your dream company is " + dream_job)
