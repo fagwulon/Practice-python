@@ -8,6 +8,6 @@ print(height)  # output: 8
 
 
 # To declare a single tuple, you add a comma at the end
-people = ("Brian Tracy",)
+# people = ("Brian Tracy",)
 
-print(type(people))
+# print(type(people))  output: <class 'tuple'>
