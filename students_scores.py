@@ -3,7 +3,7 @@ def students_score():
 
     # Convert input strings into list of integers
     scores = [int(score) for score in scores.split()]
-    print(type(scores))
+    print(scores)
     return scores
 
 
