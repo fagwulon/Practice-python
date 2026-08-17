@@ -33,11 +33,15 @@ def Login_Password(Password, Count):
 
 def check():
     Username, Password, Count = credential()
-    if Login_username(Username, Count) == False:
-        return print(f"No attempts left! \n Can't try again!!")
-    if Login_Password(Password, Count) == False:
-        return print(f"No attempts left! \n Can't try again!!")
-    return print("Login Successful")
+    if Login_username(Username, Count) is False:
+        print(f"No attempts left! \n Can't try again!!")
+        return
+    print("Username correct")
+
+    if Login_Password(Password, Count) is False:
+        print(f"No attempts left! \n Can't try again!!")
+        return
+    print("Login Successful")
 
 
 check()
