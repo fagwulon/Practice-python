@@ -19,9 +19,9 @@ def check_it(name, scores):
     return True
 
 
-def calculate(name, scores):
+def calculate(scores):
     Total_score = sum(scores)
-    Average_score = sum(scores) / len(scores)
+    Average_score = Total_score / len(scores)
     print(Total_score)
     print(Average_score)
     return Total_score, Average_score
@@ -58,7 +58,7 @@ def Output():
             break
             print("Please enter the scores again.")
 
-    Total_score, Average_score = calculate(name, scores)
+    Total_score, Average_score = calculate(scores)
 
     Grade, Status = Grade_it(Average_score)
 
