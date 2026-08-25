@@ -34,7 +34,7 @@ def check_balance(Balance):
 # Handles deposits and updates the account balance
 
 def deposit(Balance):
-    amount = int(input("Enter Amount: "))
+    amount = float(input("Enter Amount: "))
 
     # Prevents deposits below the minimum allowed amount
 
@@ -50,7 +50,7 @@ def deposit(Balance):
 # Handles withdrawals and updates the account balance
 
 def withdraw(Balance):
-    amount = int(input("Enter Amount: "))
+    amount = float(input("Enter Amount: "))
 
     # Prevents zero or negative withdrawals
 
