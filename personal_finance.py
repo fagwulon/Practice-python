@@ -17,5 +17,5 @@ balance_percentage = (remaining_money / monthly_income) * 100 / 1
 print(f"\nMonthly income: {monthly_income}\n")
 print(f"\nYour total expense for the month: {total_expenses}")
 print(f"\nExpense percentage: {expense_percentage}\n")
-print(f"\nBalance after expenses: {remaining_money}")
-print(f"\nBalance percentage: {balance_percentage}\n")
+print(f"\nBalance after expenses: {remaining_money}%")
+print(f"\nBalance percentage: {balance_percentage}%\n")
