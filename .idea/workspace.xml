@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a77b5459-f7f9-496f-927f-805e1e415d53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cail.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Change_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Change_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_finance.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_finance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
   </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/fagwulon/Practice-python.git&quot;,
+    &quot;url&quot;: &quot;git@github.com:fagwulon/Practice-python.git&quot;,
     &quot;accountId&quot;: &quot;98044a53-056b-4f14-8ecc-b38b30872c82&quot;
   }
 }</component>
@@ -99,6 +99,9 @@
       <entry key="W1" value="14.995473252068239" />
     </decayedShown>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="AISelfReview" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
   &quot;fromUser&quot;: false
@@ -113,11 +116,14 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.-.executor": "Run",
     "Python..executor": "Run",
+    "Python.Change_calculator.executor": "Run",
+    "Python.Checks.executor": "Debug",
     "Python.Class_work.executor": "Run",
     "Python.age_checker.executor": "Run",
     "Python.age_checker.py.executor": "Debug",
     "Python.age_in_time.executor": "Run",
     "Python.atm.executor": "Run",
+    "Python.cail.executor": "Run",
     "Python.fail.executor": "Run",
     "Python.personal_finance.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -132,7 +138,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -143,7 +150,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Change_calculator">
+  <component name="RunManager" selected="Python.Checks">
     <configuration name="-" type="PythonConfigurationType" factoryName="Python">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,6 +254,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Checks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~/PycharmProjects/Practice-python/.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Checks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Class_work" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,6 +311,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -295,10 +331,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="cail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice-python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~/PycharmProjects/Practice-python/.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="personal_finance" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="~/PycharmProjects/Practice-python/.venv" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -320,6 +385,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Checks" />
+        <item itemvalue="Python.cail" />
         <item itemvalue="Python.Change_calculator" />
         <item itemvalue="Python.age_in_time" />
       </list>
@@ -328,7 +395,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.10315.174" />
+        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
       </set>
     </attachedChunks>
   </component>
@@ -345,7 +413,14 @@
       <workItem from="1787919513768" duration="38000" />
       <workItem from="1787919567617" duration="90000" />
       <workItem from="1787919674132" duration="5059000" />
-      <workItem from="1788158029279" duration="7566000" />
+      <workItem from="1788158029279" duration="11223000" />
+      <workItem from="1788246306074" duration="12750000" />
+      <workItem from="1788423503845" duration="2741000" />
+      <workItem from="1788513832782" duration="3602000" />
+      <workItem from="1788780009323" duration="5048000" />
+      <workItem from="1788867489818" duration="7352000" />
+      <workItem from="1788949226744" duration="104000" />
+      <workItem from="1788949365545" duration="1497000" />
     </task>
     <servers />
   </component>
@@ -367,8 +442,11 @@
     <SUITE FILE_PATH="coverage/Practice_python$personal_finance.coverage" NAME="personal_finance Coverage Results" MODIFIED="1788159334899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice_python$.coverage" NAME=" Coverage Results" MODIFIED="1787933435854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice_python$_.coverage" NAME="- Coverage Results" MODIFIED="1787922366489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_python$Checks.coverage" NAME="Checks Coverage Results" MODIFIED="1788950087647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice_python$Class_work.coverage" NAME="Class_work Coverage Results" MODIFIED="1787922420761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice_python$fail.coverage" NAME="fail Coverage Results" MODIFIED="1787920531853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice_python$age_in_time.coverage" NAME="age_in_time Coverage Results" MODIFIED="1788161703471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_python$cail.coverage" NAME="cail Coverage Results" MODIFIED="1788786507667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_python$Change_calculator.coverage" NAME="Change_calculator Coverage Results" MODIFIED="1788165858636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
