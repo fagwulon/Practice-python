@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a77b5459-f7f9-496f-927f-805e1e415d53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_finance.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_finance.py" afterDir="false" />
-    </list>
+    <list default="true" id="a77b5459-f7f9-496f-927f-805e1e415d53" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,38 +107,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.-.executor": "Run",
-    "Python..executor": "Run",
-    "Python.Change_calculator.executor": "Run",
-    "Python.Checks.executor": "Debug",
-    "Python.Class_work.executor": "Run",
-    "Python.age_checker.executor": "Run",
-    "Python.age_checker.py.executor": "Debug",
-    "Python.age_in_time.executor": "Run",
-    "Python.atm.executor": "Run",
-    "Python.cail.executor": "Run",
-    "Python.fail.executor": "Run",
-    "Python.personal_finance.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.-.executor&quot;: &quot;Run&quot;,
+    &quot;Python..executor&quot;: &quot;Run&quot;,
+    &quot;Python.Change_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Checks.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Class_work.executor&quot;: &quot;Run&quot;,
+    &quot;Python.age_checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.age_checker.py.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.age_in_time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.atm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cail.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fail.executor&quot;: &quot;Run&quot;,
+    &quot;Python.personal_finance.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings sdk-home="$PROJECT_DIR$/.venv/bin/python">
