@@ -1,10 +1,10 @@
-Python Practice
+## Python Practice
 
 A personal collection of Python exercises, experiments, and small programs created while learning and improving Python.
 
 The repository serves as a practical record of my learning journey. It is a place to apply concepts, practise problem-solving, test ideas, and revisit topics as my skills develop.
 
-Goals
+# Goals
 
 - Strengthen my understanding of Python fundamentals.
 - Improve logical thinking and problem-solving skills.
@@ -12,7 +12,7 @@ Goals
 - Learn by building small programs and working through coding challenges.
 - Track progress through consistent practice.
 
-Topics
+# Topics
 
 - Variables, data types, and operators
 - Conditional statements and loops
@@ -23,16 +23,16 @@ Topics
 - Problem-solving exercises and algorithms
 - Small command-line programs and practical projects
 
-Getting Started
+*Getting Started*
 
-Requirements
+# Requirements
 
 - Python 3 installed on your computer
 - A code editor or terminal
 
 Check your Python installation:
 
-python3 --version
+*python3 --version*
 
 Clone the repository
 
